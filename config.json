@@ -1,0 +1,9 @@
+{
+  "issueDojangEnabled": true,
+  "claimFaucetEnabled": true,
+  "sendEnabled": true,
+  "sendRepetitions": 2,
+  "sendAmountMin": 0.01,
+  "sendAmountMax": 0.05,
+  "loopHours": 24
+}
